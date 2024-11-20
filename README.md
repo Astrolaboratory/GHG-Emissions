@@ -41,7 +41,7 @@ The interactive dashboard, developed in Tableau, answers critical questions rela
 - **`emissions_data.csv`**: Generated dataset in CSV format.  
 - **`Emissions - Cost.xlsx`**: Supplementary data for emissions and costs.  
 - **`GHG Emissions.twbx`**: Tableau workbook containing the interactive dashboard.  
-- **`Snapshot.png`**: Static image of the dashboard visualization.  
+- **`ESG GHG Dashboard.png`**: Static image of the dashboard visualization.  
 
 ---
 
